@@ -47,6 +47,9 @@ where `stage/1-dev` is the directory with the config files for your Reahl app.
 
 Enjoy.
 
+# Screenshot
+
+![](https://github.com/metaperl/reahl-audit-log/blob/master/doc/audit_trail.PNG?raw=true)
 
 
 # References
